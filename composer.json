@@ -1,0 +1,17 @@
+{
+    "name": "lite/downloader",
+    "description": "Download files",
+    "license": "MIT License",
+    "authors": [
+        {
+            "name": "Zeki Ünal",
+            "email": "zekiunal@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "Image": "src/"
+        }
+    }
+}
